@@ -7,9 +7,9 @@
  * Connections:
  * Link Cable     Arduino      Desc
  * 6              GND          GND
- * 5              53            SC
- * 2              6            SI (not used)
- * 3              7            SO
+ * 5              38           SCK
+ * 2              x            SIN (not used)
+ * 3              36           SOUT
 */
 
 // Includes
